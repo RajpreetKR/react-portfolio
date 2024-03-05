@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "PRoject #1",
+        "description": "this project does stuff",
+        "githubLink": "http://www.github.com/",
+        "deployedLink": "",
+        "proj-image": ""
+    },
+    {
+        "id": 2,
+        "title": "PRoject #2",
+        "description": "this project does other stuff",
+        "githubLink": "http://www.github.com/",
+        "deployedLink": "",
+        "proj-image": ""
+    }
+]
