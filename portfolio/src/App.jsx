@@ -12,9 +12,8 @@ function App() {
 
   return (
     <Router>
-      <div>App Root</div>
+      <Header />
       <Routes>
-        <Header></Header>
           <Route path='/' element={<Home />} />
           <Route path='/about' element={<div>About Page</div>} />
           <Route path='/projects' element={<ProjectGallery />} />

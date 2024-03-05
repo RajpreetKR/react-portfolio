@@ -3,14 +3,11 @@ import React from 'react'
 function Home() {
   return (
     <>
-        <div>Home Component</div>
         <div className="home-container">
-            <h2>My Name</h2>
-            <div className='image-container'>
-                <img src="" alt="my-headshot" />
-            </div>
-            <p>Brand statement</p>
-            <p>Welcome to my Portfolio!</p>
+            <h1>Hello!</h1>
+            <h3>My name is </h3><h2>Rajpreet Rehill!</h2>
+            <p>You never stop learning.</p>
+            <p>And with that... Welcome to my Portfolio!</p>
         </div>
     </>
   )
